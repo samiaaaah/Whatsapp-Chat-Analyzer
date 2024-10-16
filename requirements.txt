@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+textblob
+wordcloud
+altair
+scikit-learn
+streamlit
+pdfkit
